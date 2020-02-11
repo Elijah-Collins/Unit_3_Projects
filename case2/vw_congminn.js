@@ -5,7 +5,6 @@
    Tutorial 10
    Case Problem 4
   
-     
    Filename: vw_congminn.js 
    
    Variables:
